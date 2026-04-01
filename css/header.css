@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+    color: rgb(48, 77, 16);
+    margin-bottom: 0.5%;
+    background-color: #c3d1a1;
+    font-family: "Eater", serif;
+}
+
+
+
+.header__h1 {
+    margin: 0 auto;
+    font-size: 150%;
+}
+

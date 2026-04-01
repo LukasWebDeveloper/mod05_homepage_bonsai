@@ -1,0 +1,28 @@
+.navigation {
+    display: block;
+    padding: 0.1%;
+    line-height: 24px;
+    background-color: #e1e9d0;
+    margin: 0.1% auto;
+}
+
+.navigation__element {
+    position: relative;
+    list-style-type: none;
+    margin: 0.1%;
+    left: -2%;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: rgb(83, 83, 83);
+    font-weight: 700,;
+}
+
+.link:focus {
+    outline: 2px solid  rgb(40, 40, 40);
+}
+
+.navigation__link:hover {
+    color: rgb(17, 17, 17);
+}
