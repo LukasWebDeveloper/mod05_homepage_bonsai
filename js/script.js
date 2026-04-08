@@ -1,4 +1,4 @@
-console.log("Witam serdecznie wszystkich programistów!");
+console.log("Witam serdecznie wszystkich programistów! Ten kod jest już w repozytorium Git.");
 
 let changeColorButton = document.querySelector(".button__changeColorBackground");
 
